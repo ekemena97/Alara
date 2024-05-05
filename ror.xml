@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.alaralegal.com.ng/</title>
+  <link>http://www.alaralegal.com.ng/</link>
+
+<item>
+     <link>https://www.alaralegal.com.ng/</link>
+     <title>Alara - Law Firm</title>
+     <description>Alara - Law Firm</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.alaralegal.com.ng/index.html</link>
+     <title>Alara - Law Firm</title>
+     <description>Alara - Law Firm</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
